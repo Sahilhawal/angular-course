@@ -1,0 +1,9 @@
+1. DATA BINDING
+A. String Interpolation
+    {{ string/number/function}}
+B. Property Binding    
+    [disabled]="property"
+C. Event Binding
+    (click)="function($event)" 
+D. Two-way Binding
+    [(ngModel)]="propertyName"       
